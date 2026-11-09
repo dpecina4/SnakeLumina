@@ -1,19 +1,19 @@
 {
-"name": "Snake Effect: Lumina",
-"short_name": "SnakeLumina",
-"description": "An ethereal audiovisual remake of Snake inspired by the luminous aesthetic of Tetris Effect, powered by Three.js and WebGL bloom.",
-"start_url": "./",
-"scope": "./",
-"display": "standalone",
-"orientation": "portrait",
-"background_color": "#020308",
-"theme_color": "#020308",
-"icons": [
-{
-"src": "pwa-512x512.png",
-"sizes": "512x512",
-"type": "image/png",
-"purpose": "any maskable"
-}
-]
+  "name": "Snake Effect: Lumina",
+  "short_name": "SnakeLumina",
+  "description": "An ethereal audiovisual remake of Snake inspired by the luminous aesthetic of Tetris Effect, powered by Three.js and WebGL bloom.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#020308",
+  "theme_color": "#020308",
+  "icons": [
+    {
+      "src": "./pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
 }
